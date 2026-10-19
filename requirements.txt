@@ -7,4 +7,5 @@ joblib
 matplotlib
 seaborn
 shap
+numba
 plotly
